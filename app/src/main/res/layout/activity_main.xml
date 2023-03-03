@@ -10,11 +10,15 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="Hello World wellcome to 2023!" />
 
     <TextView
-        android:layout_width="529dp"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Lina" />
+        android:text="Lina"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/cardview_light_background"
+        android:textAllCaps="true"/>
 
 </LinearLayout>
